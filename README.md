@@ -1,5 +1,5 @@
 # LiMM
-This is the code of our paper"Index Matters: Learning Road Network Index Structure for Fast Map Matching"
+This is the code of our paper "Index Matters: Learning Road Network Index Structure for Fast Map Matching".
 
 ## Dataset
 We provide a sample dataset of porto in \[data/porto]. 
