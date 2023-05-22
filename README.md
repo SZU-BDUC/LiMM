@@ -2,7 +2,7 @@
 This is the code of our paper "Index Matters: Learning Road Network Index Structure for Fast Map Matching".
 
 ## Dataset
-We provide a sample dataset of porto in \[data]. Please unzip the file \[porto.zip]. 
+We provide a sample dataset of porto in \[data]. Please unzip the file \[data/porto.zip]. 
 - Folder \[data/porto/rein_tra] is the training dataset of Q-learning for adaptive searching range. 
 - Folder \[data/porto/trajectory] is the raw trajectories of HMMLimm matching. 
 - File \[data/porto/porto.osm] is the porto map with boundary : {**lat_min = 41.05, lat_max = 41.25, lon_min = -8.75, lon_max = -8.45**}
