@@ -14,7 +14,7 @@ You can also download map from <a href="https://www.openstreetmap.org" target="_
 - tensorflow == 1.15.0
 - networkx == 2.6.3
 - rtree == 0.9.7
-- osm2gmns==0.6.8
+- osm2gmns == 0.6.8
 - psutil == 5.9.0
 - tqdm == 4.65.0
 
