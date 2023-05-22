@@ -7,7 +7,7 @@ We provide a sample dataset of porto in \[data]. **Please unzip the file \[data/
 - Folder \[data/porto/trajectory] is the raw trajectories of HMMLimm matching. 
 - File \[data/porto/porto.osm] is the porto map with boundary : {lat_min = 41.05, lat_max = 41.25, lon_min = -8.75, lon_max = -8.45}
 
-You can also download map from [OpenStreetMap](https://www.openstreetmap.org) and porto dataset from [Kaggle](https://www.kaggle.com/competitions/pkdd-15-predict-taxi-service-trajectory-i/data).
+You can also download map from [OpenStreetMap](https://www.openstreetmap.org) and trajectory dataset from [Kaggle](https://www.kaggle.com/competitions/pkdd-15-predict-taxi-service-trajectory-i/data).
 
 ## Requirements
 - python == 3.7
