@@ -1,5 +1,5 @@
 # LiMM
-This is the code of our paper "Index Matters: Learning Road Network Index Structure for Efficient Map Matching".
+This is the code of our paper "Learning Road Network Index Structure for Efficient Map Matching".
 
 ## Dataset
 We provide a sample dataset of porto in \[data]. **Please unzip the file \[data/porto.zip]**. 
